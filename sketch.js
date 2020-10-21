@@ -1,7 +1,7 @@
 let buttonSpeedUp;
 let buttonSpeedDown;
 
-let cx = 0;
+let cx = 100;
 let cy = 0;
 let cSize = 50;
 let vx = 1;
